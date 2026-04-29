@@ -1,21 +1,24 @@
-🚀 Interactive sales analytics dashboard built using Power BI
+🛒 Supermarket Sales Dashboard using Power BI
 
-# 🛒 Power BI Supermarket Dashboard
+![Dashboard](powerbi-dashboard.png)
 
-## 📊 Project Overview
-This Power BI dashboard analyzes supermarket sales performance using KPIs, Map visualization, Treemap and Revenue tracking.
+📊 Project Overview
+This project presents an interactive Power BI dashboard to analyze supermarket sales performance and track key business KPIs. It enables data-driven decision making through clear and dynamic visualizations.
 
-## 📌 Key Features
-- Current Month Transactions KPI
-- Profit vs Target Comparison
-- Weekly Revenue Trend Analysis
-- Store Country Performance
-- Revenue vs Target Gauge
+📌 Key Features
+• Current Month Transactions KPI  
+• Profit vs Target Comparison  
+• Weekly Revenue Trend Analysis  
+• Country-wise Sales Performance (Map)  
+• Revenue vs Target Gauge  
 
-## 🛠 Tools Used
-- Power BI
-- DAX
-- Data Modeling
+🛠 Tools Used
+• Power BI  
+• DAX  
+• Data Modeling  
 
-## 📸 Dashboard Preview
-![Dashboard Preview](supermarket-dashboard.png)
+📸 Dashboard Preview
+(See image above)
+
+👨‍💻 Author
+Dudekula Reshma
