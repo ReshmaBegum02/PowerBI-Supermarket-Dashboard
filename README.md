@@ -3,9 +3,11 @@
 ![Dashboard](powerbi-dashboard.png)
 
 📊 Project Overview
+
 This project presents an interactive Power BI dashboard to analyze supermarket sales performance and track key business KPIs. It enables data-driven decision making through clear and dynamic visualizations.
 
 📌 Key Features
+
 • Current Month Transactions KPI  
 • Profit vs Target Comparison  
 • Weekly Revenue Trend Analysis  
@@ -13,6 +15,7 @@ This project presents an interactive Power BI dashboard to analyze supermarket s
 • Revenue vs Target Gauge  
 
 🛠 Tools Used
+
 • Power BI  
 • DAX  
 • Data Modeling  
@@ -21,4 +24,5 @@ This project presents an interactive Power BI dashboard to analyze supermarket s
 (See image above)
 
 👨‍💻 Author
+
 Dudekula Reshma
