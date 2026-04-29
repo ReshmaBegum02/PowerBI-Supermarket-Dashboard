@@ -23,6 +23,6 @@ This project presents an interactive Power BI dashboard to analyze supermarket s
 📸 Dashboard Preview
 (See image above)
 
-👨‍💻 Author
+👨‍💻 Created By
 
 Dudekula Reshma
